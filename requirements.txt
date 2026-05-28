@@ -1,0 +1,12 @@
+transformers==4.36.2
+torch==2.1.2
+sentencepiece==0.1.99
+langdetect==1.0.9
+python-magic-bin==0.4.14
+beautifulsoup4==4.12.2
+lxml==4.9.3
+Pillow==10.1.0
+pytesseract==0.3.10
+python-docx==1.0.1
+openpyxl==3.1.2
+pdfplumber==0.10.3
